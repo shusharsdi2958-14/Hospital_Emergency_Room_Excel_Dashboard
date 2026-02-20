@@ -83,6 +83,6 @@ This dashboard helps hospital management:
 
 ## Author
 
-Shushar Kulal  
+Shushar U Kulal  
 Aspiring Data Analyst  
 Excel | SQL | Power BI  
