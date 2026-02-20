@@ -1,9 +1,9 @@
-Hospital Emergency Room Excel Dashboard
-Overview
+#Hospital Emergency Room Excel Dashboard
+##Overview
 
 An interactive Excel dashboard built to analyze hospital emergency room performance. The project transforms raw patient data into meaningful insights using data visualization and KPI tracking.
 
-Objectives
+##Objectives
 
 Monitor total patient visits
 
@@ -15,7 +15,7 @@ Understand age and gender distribution
 
 Track department-wise workload
 
-Tools Used
+##Tools Used
 
 Microsoft Excel
 
@@ -27,7 +27,7 @@ Conditional Formatting
 
 Data Validation
 
-Files Included
+##Files Included
 
 Hospital_ER_Dashboard.xlsx – Main dashboard file
 
@@ -37,10 +37,10 @@ screenshots/dashboard.PNG – Dashboard preview
 
 README.md – Project documentation
 
-Dashboard Preview
+##Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/shusharsdi2958-14/Hospital_Emergency_Room_Excel_Dashboard/blob/main/Hospital-ER-Excel_project/Hospital_ER_Dashboard.png?raw=true)
 
-Skills Demonstrated
+##Skills Demonstrated
 
 Data Cleaning | Data Aggregation | KPI Analysis | Data Visualization | Dashboard Design
