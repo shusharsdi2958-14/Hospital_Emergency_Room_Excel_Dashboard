@@ -53,7 +53,7 @@ Without centralized reporting, management cannot easily identify bottlenecks or 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="[screenshots/dashboard.png](https://github.com/shusharsdi2958-14/Hospital_Emergency_Room_Excel_Dashboard/blob/main/Hospital-ER-Excel_project/Hospital_ER_Dashboard.png?raw=true)" width="900">
+  <img src="https://github.com/shusharsdi2958-14/Hospital_Emergency_Room_Excel_Dashboard/blob/main/Hospital-ER-Excel_project/Hospital_ER_Dashboard.png?raw=true" width="900">
 </p>
 
 ---
