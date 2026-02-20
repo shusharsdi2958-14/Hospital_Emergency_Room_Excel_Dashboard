@@ -1,46 +1,88 @@
-#Hospital Emergency Room Excel Dashboard
-##Overview
+# Hospital Emergency Room Dashboard
 
-An interactive Excel dashboard built to analyze hospital emergency room performance. The project transforms raw patient data into meaningful insights using data visualization and KPI tracking.
+<p align="center">
+  <b>Interactive Excel Dashboard for Emergency Room Performance Analysis</b>
+</p>
 
-##Objectives
+---
 
-Monitor total patient visits
+## Project Overview
 
-Analyze average waiting time
+This project presents an interactive Excel dashboard designed to analyze hospital emergency room performance. It converts raw patient-level data into structured insights to support operational monitoring and data-driven decision-making.
 
-Evaluate admission trends
+The dashboard enables users to evaluate patient flow, waiting time, admissions, demographics, and departmental workload in a single consolidated view.
 
-Understand age and gender distribution
+---
 
-Track department-wise workload
+## Business Problem
 
-##Tools Used
+Emergency rooms face challenges such as:
 
-Microsoft Excel
+- Unpredictable patient inflow  
+- Service delays  
+- Uneven department workload  
+- Limited visibility into performance metrics  
 
-Pivot Tables
+Without centralized reporting, management cannot easily identify bottlenecks or optimize resources. This dashboard addresses that gap by providing clear and actionable KPIs.
 
-Pivot Charts
+---
 
-Conditional Formatting
+## Key Features
 
-Data Validation
+- KPI summary cards (Total Patients, Waiting Time, Satisfaction Score)
+- Admission vs Non-Admission analysis
+- On-Time vs Delayed patient tracking
+- Age group distribution analysis
+- Gender distribution insights
+- Department-wise case breakdown
+- Interactive month and year filters
 
-##Files Included
+---
 
-Hospital_ER_Dashboard.xlsx – Main dashboard file
+## Tools & Techniques
 
-dataset.csv – Raw dataset
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Conditional Formatting  
+- Data Validation  
+- Dynamic Formulas  
 
-screenshots/dashboard.PNG – Dashboard preview
+---
 
-README.md – Project documentation
+## Dashboard Preview
 
-##Dashboard Preview
+<p align="center">
+  <img src="[screenshots/dashboard.png](https://github.com/shusharsdi2958-14/Hospital_Emergency_Room_Excel_Dashboard/blob/main/Hospital-ER-Excel_project/Hospital_ER_Dashboard.png?raw=true)" width="900">
+</p>
 
-![Dashboard Screenshot](https://github.com/shusharsdi2958-14/Hospital_Emergency_Room_Excel_Dashboard/blob/main/Hospital-ER-Excel_project/Hospital_ER_Dashboard.png?raw=true)
+---
 
-##Skills Demonstrated
+## Skills Demonstrated
 
-Data Cleaning | Data Aggregation | KPI Analysis | Data Visualization | Dashboard Design
+- Data Cleaning and Preparation  
+- KPI Identification  
+- Data Aggregation  
+- Business Insight Generation  
+- Data Visualization  
+- Dashboard Design  
+
+---
+
+## Business Value
+
+This dashboard helps hospital management:
+
+- Monitor operational efficiency  
+- Identify service delays  
+- Track patient demographics  
+- Optimize department resource allocation  
+- Improve overall patient satisfaction  
+
+---
+
+## Author
+
+Shushar Kulal  
+Aspiring Data Analyst  
+Excel | SQL | Power BI  
